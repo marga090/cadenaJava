@@ -8,5 +8,7 @@ public class RecorrerCadena {
             char caracter = cadena.charAt(i);
             System.out.println("Carácter en posición " + i + ": " + caracter);
         }
+
+        //Ésto es un comentario que hemos añadido al código para hacer una prueba
     }
 }
